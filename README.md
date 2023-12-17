@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bharati-Samatham
+- 👋 Hi, I’m Vijaya Bharati-Samatham
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Data Analytics
-- 
+- 📊 Excited about leveraging Python for data analysis and applying theoretical knowledge practically.
 - 
 
 <!---
